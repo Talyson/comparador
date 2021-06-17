@@ -1,15 +1,16 @@
 #Comparador
 
 Compara dois arquivos e retorna a diferença do segundo arquivo para o primeiro.
+
 Forma de uso:
 
-./comparador arquivoBase arquivoComparacao arquivoResultado
+  ./comparador arquivoBase arquivoComparacao arquivoResultado
 
 Compilação:
 
-make
+  make
 
 ou
 
-gcc comparador.c funcoes.c -o comparador
+  gcc comparador.c funcoes.c -o comparador
 
